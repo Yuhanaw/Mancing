@@ -5,3 +5,4 @@ di tembak ndangak2
 anti stress
 gaspoll
 shimano
+maguro
