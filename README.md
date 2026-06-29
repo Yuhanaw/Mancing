@@ -7,3 +7,4 @@ gaspoll
 shimano
 maguro
 stella
+marlin
