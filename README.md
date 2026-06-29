@@ -8,3 +8,4 @@ shimano
 maguro
 stella
 marlin
+gp
