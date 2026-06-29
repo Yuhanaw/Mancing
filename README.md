@@ -6,3 +6,4 @@ anti stress
 gaspoll
 shimano
 maguro
+stella
